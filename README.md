@@ -2,6 +2,7 @@
 portfolio of the my major projects
 
 ## Waste Project
+https://github.com/alikoochooloo/wasteproject
 This project os the final project for my Database Systems class (code 307). We in association with the Westminster College environmental center, programmed an interface that accesses a database to save and display information on the physical waste produced on the Westminster College campus. We used the packeges swing from Java to build the interface and SQLite for the database. This is an important project to me because it was my first big group programming project but even more important than that is that we completed this project for a real client. This is an opportunity that most student are not even presented with. This project helped me understand the concepts and techniques of software designa and acquire significant project experience working both individually and in a group setting.
 
 ## Math Quest
