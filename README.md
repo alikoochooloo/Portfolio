@@ -17,7 +17,7 @@ https://github.com/alikoochooloo/senior-project
 This is an individual project that took me one semester to prepare for and another semester to program. It is by far and away my biggets project to this day and I am very proud of it. On its face it is just a simple python GUI developed using kivy library. But the backend code is a machine learning convolutional neural network algorithm that took me alot of time and effort to create. The algorithm is a 4 layer 1-dimenssional model that it is designed to destinct between English, Russian, and Chinese using a 4-second audio as an input. The model itself has a taining accuracy of 99.6% and testing accuracy of 99.1%. The data for this project was downloaded from the website VoxForge which is a dataset of people donating their voice while talking in their language.
 
 ## Sleeping TA
-https://github.com/alikoochooloo/senior-project
+https://github.com/alikoochooloo/SleepingTA
 
 This project is a set codes written in C. the premiss of the project is to learn how to use semaphores and mutex locks in C. This assignment helped me by growing my knowledge of basic level computer operating systems functionalities as well as the use of header files when programming in C. it is a set of programs that call upon each other. simply put, this project simulates how a TA helps 5 students that are working but every once in a while have to get help but only one at a time and there are only 3 chares available for students to wait for the TA.
 
